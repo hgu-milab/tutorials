@@ -1,4 +1,4 @@
-# deep learning tutorials 
+# deep learning tutorials (Pytorch in Colab)
 by Machine Intelligence Lab (MILAb) at Handong Global University
 https://milab.handong.edu/ 
 - This is work with all grad students in MILAb. 
