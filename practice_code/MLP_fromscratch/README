@@ -1,3 +1,4 @@
 This notebook is to get a better understanding on how MLP works for supervised learning. Forward and backward propagations are made from scratch. 
-In real world scenarios, researchers use libraries such as pytorch, keras or tensorflow to compute such things automatically. They are much more efficient and have been tested by developers.
+In real world scenarios, researchers use libraries such as pytorch, keras or tensorflow to compute such things automatically. 
+They are much more efficient and have been tested by developers.
 However, if you want to understand how the MLP works in detail (from theory to practice), this notebook serves that purpose.
