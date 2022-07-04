@@ -3,7 +3,7 @@ by Machine Intelligence Lab (MILAb) at Handong Global University
 https://milab.handong.edu/ 
 - This is work with all grad students in MILAb. 
 
-PDF files are availabe at https://drive.google.com/drive/folders/1CG-huWxSESg1VPQcBQmyUNaHD7jSCVhW?usp=sharing
+PDF files are availabe at https://drive.google.com/drive/u/2/folders/1Gmvji0hHzfOWZtO1MDotGZ1ICM6y39xC
 
 Video lectures for the code are available at https://drive.google.com/drive/folders/1qOHudsMiAwmQ3tyfVBHLU_jizh8OQuS8?usp=sharing
 
